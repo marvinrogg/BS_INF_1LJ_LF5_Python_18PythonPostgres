@@ -41,4 +41,4 @@ finally:
         connection.close()
         print("Verbindung zur Datenbank geschlossen.")
 
-
+#test
