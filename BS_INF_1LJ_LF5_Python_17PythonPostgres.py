@@ -40,3 +40,5 @@ finally:
         cursor.close()
         connection.close()
         print("Verbindung zur Datenbank geschlossen.")
+
+        #test
